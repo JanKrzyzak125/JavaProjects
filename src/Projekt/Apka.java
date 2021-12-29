@@ -38,7 +38,8 @@ public class Apka implements ActionListener, FocusListener{
 	protected int index;
 	protected int kolejne=0;
 	protected Klient tempKlient;
-	
+
+
 	private boolean bledny=true;
 	private Calendar czas;
 	
